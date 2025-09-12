@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 My Portfolio  
-🔗 [**Live Portfolio Website**](https://sheetalk20.github.io/Sheetal-Kumari-Portfolio/)  
+🔗 [**Live Portfolio Website**](https://sheetal-kumari-portfolio.vercel.app/)  
 
 *(Check out my projects, achievements, and more!)*  
 
