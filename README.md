@@ -38,6 +38,9 @@
 <a href="https://github.com/Sheetalk20" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
 </a>
+  <a href="https://x.com/sheetalk7050" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" />
+  </a>
 </p>
 
 ---
