@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 B.Tech IT (3rd Year) student  
+- 🎓 B.Tech IT (Final Year) student  
 - 💻 Exploring **Full Stack Development** (React, Next.js, Node.js)  
 - ☕ Skilled in **Java Programming**  
 - 📊 Interested in **Data Structures & Algorithms** and **Database Management**  
@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, Python, SQL, JavaScript  
+- **Languages:** Java, SQL, JavaScript  
 - **Frontend:** HTML, CSS, React, Next.js  
 - **Backend:** Node.js, Express  
 - **Database:** MySQL, MongoDB  
