@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sheetal Kumari</h1>
-<h3 align="center">A Passionate IT Student | Web Developer | Java Programmer</h3>
+<h3 align="center">B.Tech IT Graduate | Software Developer | Web Development | Java | DSA
+</h3>
 
 ---
 
 ### 🌟 About Me
-- 🎓 B.Tech IT (Final Year) student  
+- 🎓 B.Tech IT Graduate | 2026
 - 💻 Exploring **Full Stack Development** (React, Next.js, Node.js)  
-- ☕ Skilled in **Java Programming**  
-- 📊 Interested in **Data Structures & Algorithms** and **Database Management**  
-- ✨ Contributor at **GSSoC (GirlScript Summer of Code)**  
+- ☕ Skilled in **Java** and **JavaScript Programming**  
+- 📊 Interested in **Data Structures & Algorithms** , **Software Development** and **Database Management**  
+- ✨ Contributor at **GSSoC (GirlScript Summer of Code)**
+- 🚀 Building projects to strengthen my skills and grow as a Software Developer
 
 ---
 
